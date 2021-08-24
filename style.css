@@ -220,7 +220,7 @@
 }
 
 
-@media only screen and (max-width: 500px) {
+/*@media only screen and (max-width: 500px) {
   .banner {
      text-align: center;
     position: absolute;
@@ -229,4 +229,4 @@
     transform: translate(-50%, -50%);
 
   }
-}
+}*/
